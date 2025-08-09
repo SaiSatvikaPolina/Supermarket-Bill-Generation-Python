@@ -11,3 +11,16 @@ Perfect for beginners learning **Python, loops, dictionaries, and basic I/O**
 - 🧾 **GST Calculation** – Adds 5% GST to the total bill.
 - 🖨 **Formatted Receipt** – Prints a professional-looking bill with date, time, and customer name.
 - 🚪 **Exit Option** – Stop shopping anytime.
+
+## 📦 Items & Prices
+
+| Item    | Price (Rs)   | Unit   |
+|---------|-------------|--------|
+| Rice    | 20          | /kg    |
+| Sugar   | 30          | /kg    |
+| Salt    | 20          | /kg    |
+| Oil     | 80          | /litre |
+| Paneer  | 110         | /kg    |
+| Maggi   | 50          | /kg    |
+| Boost   | 90          | /each  |
+| Colgate | 85          | /each  |
