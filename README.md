@@ -24,3 +24,14 @@ Perfect for beginners learning **Python, loops, dictionaries, and basic I/O**
 | Maggi   | 50          | /kg    |
 | Boost   | 90          | /each  |
 | Colgate | 85          | /each  |
+
+📚 Concepts Used
+Python Dictionaries for item-price mapping
+
+Loops (for and while) for repeated input
+
+Conditionals for input validation
+
+Datetime for printing date & time on bill
+
+List Management for storing purchased items
