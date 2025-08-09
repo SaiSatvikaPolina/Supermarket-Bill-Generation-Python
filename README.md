@@ -26,6 +26,7 @@ Perfect for beginners learning **Python, loops, dictionaries, and basic I/O**
 | Colgate | 85          | /each  |
 
 📚 Concepts Used
+
 Python Dictionaries for item-price mapping
 
 Loops (for and while) for repeated input
