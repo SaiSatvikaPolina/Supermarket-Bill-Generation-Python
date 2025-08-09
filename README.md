@@ -27,12 +27,8 @@ Perfect for beginners learning **Python, loops, dictionaries, and basic I/O**
 
 📚 Concepts Used
 
-Python Dictionaries for item-price mapping
-
-Loops (for and while) for repeated input
-
-Conditionals for input validation
-
-Datetime for printing date & time on bill
-
-List Management for storing purchased items
+- Python Dictionaries for item-price mapping
+- Loops (for and while) for repeated input
+- Conditionals for input validation
+- Datetime for printing date & time on bill
+- List Management for storing purchased items
