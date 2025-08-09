@@ -32,3 +32,11 @@ Perfect for beginners learning **Python, loops, dictionaries, and basic I/O**
 - Conditionals for input validation
 - Datetime for printing date & time on bill
 - List Management for storing purchased items
+
+---
+
+## 📌 Conclusion
+
+This project was created as a simple **Python mini-project** for learning purposes.  
+It helped me understand the basics of **loops, dictionaries, conditionals, and formatted output**.  
+I plan to improve it in the future by adding more items, saving bills to a file, and maybe even a small GUI.
